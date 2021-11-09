@@ -119,10 +119,14 @@ https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29094.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian Bangla",Star Jalsha HD
 http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7875
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Indian Bangla",Sony Aath
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Indian Bangla",Sony Aath (1)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29119
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Indian Bangla",Sony Aath (2)
 https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/Sony8.m3u8
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29119
 #EXTINF:0 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian Bangla",Jalsha Movies HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
+#EXTINF:0 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian Bangla",Jalsha Movies
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 #EXTINF:0 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Indian Bangla",Zee Bangla
 https://26gl.short.gy/ZeeBanglaHd-by-DoraTv.m3u8
